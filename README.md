@@ -1,5 +1,7 @@
 # Social Editor Project
 
+<img width="1440" alt="SocialEditor" src="https://github.com/nartcire/Social-Editor/assets/67806241/dabd42a9-a876-4a57-ab2f-7024fca85bb3">
+
 ## Motivation
 
 This project is a simple HTML/CSS Project to learn more about HTML and CSS. 
